@@ -1,5 +1,5 @@
 # [ Hi 👋 , I am Deborshi Dey](http://# " Hi, I am Deborshi Dey")
-##### I am a 4th Year Student at Maulana Abul Kalam Azad University of Technology </br>currently undertaking my Bachelor of Technology in Electronics and Communication Enginee.</br> I'm a Software Developer with an experience in Development, Analysis and Content</br>Expertise in Android app DEvelopmentTechnologies.Community Roles in-general with a flair of solving problems as I learn new things.
+##### I am a 4th Year Student at Maulana Abul Kalam Azad University of Technology </br>currently undertaking my Bachelor of Technology in Electronics and Communication Enginee.</br> I'm a Software Developer with an experience in Development, Analysis and Content</br>Expertise in Android app DevelopmentTechnologies. Community Roles in-general with a flair of solving problems as I learn new things.
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif)
 </br>
 ![](https://komarev.com/ghpvc/?username=deborshi-12&color=dc143c)
@@ -40,5 +40,5 @@
 
 ------------
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/USERNAME/)
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](httww.paypal.me/USERNAME/)
 <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
