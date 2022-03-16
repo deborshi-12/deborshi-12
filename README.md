@@ -1,5 +1,5 @@
 # [ Hi 👋 , I am Deborshi Dey](http://# " Hi, I am Deborshi Dey")
-##### I am a 4th Year Student at Maulana Abul Kalam Azad University of Technology </br>currently undertaking my Bachelor of Technology in Electronics and Communication Enginee.</br> I'm a Software Developer with an experience in Development, Analysis and Content</br> Writing with particular expertise in Web, Machine Learning and Cloud Technologies.</br> I am looking for opportunities in Web, Cloud and </br>Community Roles in-general with a flair of solving problems as I learn new things.
+##### I am a 4th Year Student at Maulana Abul Kalam Azad University of Technology </br>currently undertaking my Bachelor of Technology in Electronics and Communication Enginee.</br> I'm a Software Developer with an experience in Development, Analysis and Content</br>Expertise in Android app DEvelopmentTechnologies.Community Roles in-general with a flair of solving problems as I learn new things.
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif)
 </br>
 ![](https://komarev.com/ghpvc/?username=deborshi-12&color=dc143c)
